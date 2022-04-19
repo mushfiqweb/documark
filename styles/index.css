@@ -1,0 +1,8 @@
+.watermark-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  justify-items: flex-start;
+  width: 50%;
+  height: 200px;
+}
